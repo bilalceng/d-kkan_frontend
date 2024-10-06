@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">dukkan</string>
+    <string name="welcome_title">Dükkan\'a</string>
+    <string name="welcome_subtitle">Hoşgeldin</string>
+    <string name="description_text">Whispers of wind carried secrets across the moonlit meadow</string>
+    <string name="login_button">Giriş yap</string>
+    <string name="register_button">Kayıt ol</string>
+    <!-- Login Page Texts -->
+    <string name="login_title">Giriş Yap</string>
+    <string name="login_info">Lütfen devam etmeden önce giriş yapın.</string>
+    <string name="password_hint">şifre</string>
+    <string name="username_hint">kulanıcı adı</string>
+    <string name="login_button_text">Giriş Yap</string>
+    <string name="already_have_account_text">Zaten hesabım var.</string>
+    <!-- Content Description -->
+    <string name="login_image_description">login</string>
+    <string name="password_icon_description">password icon</string>
+    <string name="username_icon_description">username icon</string>
+    <string name="eye_open_icon_description">eye open</string>
+    <string name="eye_closed_icon_description">eye closed</string>
+    <!-- Registration Page -->
+    <string name="register_page_title">Kayıt Ol</string>
+    <string name="register_page_info">Lütfen devam etmeden önce kayıt olun.</string>
+    <string name="password_placeholder">şifre</string>
+    <string name="email_placeholder">email</string>
+    <string name="username_placeholder">kulanıcı adı</string>
+    <string name="register_button_text">Kayıt Ol</string>
+    <string name="toggle_password_visibility_description">Toggle Password Visibility</string>
+</resources>
